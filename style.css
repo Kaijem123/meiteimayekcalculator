@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Ubuntu:wght@300&display=swap');
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: epaomayek; 
+  background: linear-gradient(rgb(98, 98, 250), rgb(250, 153, 250));
+}
+
+
+
+.button{
+  width: 66px;
+  padding: 16px;
+  margin: 0 3px;
+  border: 4px solid yellow;
+  
+  border-radius: 9px;
+  cursor: pointer;
+  font-family: epaomayek;
+  font-size: 30px;
+  background-color: rgb(41, 3, 88);
+  color: white;
+}
+
+.button:hover{
+  background-color: rgb(67, 1, 165);
+}
+
+.row{
+  margin: 8px 0;
+}
+.row input{
+  width: 291px;
+  font-size: 30px;
+  margin: 0;
+  padding: 10px 2px;
+  border: 2px solid black;
+  border-radius: 5px;
+  background-color: red;
+  color: white;
+  
+}

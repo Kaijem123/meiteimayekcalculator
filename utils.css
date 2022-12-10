@@ -1,0 +1,32 @@
+.text-center{
+    text-align: center;
+    font-size: 40px;
+    margin: 10px;
+    
+    background-color: rgb(212, 248, 51);
+  }
+
+
+  .bg-red{
+    background: red;
+  }
+  
+  .mx-auto{
+    margin: auto;
+  }
+  
+  .flex{
+    display:flex;
+  } 
+  .flex-col{
+    flex-direction: column;
+  }
+  
+  .items-center{
+    align-items: center;
+  }
+
+  .input{
+    font-family: epaomayek;
+    font-size: 22px;
+  }
